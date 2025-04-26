@@ -7,8 +7,8 @@ public class MovieLocation {
     private String title;
     private String release_year;
     private String locations;
-    private String ator_1;
-    private String ator_2;
-    private String ator_3;
+    private String actor_1;
+    private String actor_2;
+    private String actor_3;
 
 }
